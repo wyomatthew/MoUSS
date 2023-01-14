@@ -39,6 +39,7 @@ The notebooks corresponding to each of the above questions are:
 1. [Question 1](/notebooks/School_Happenings.ipynb)
 2. [Question 2](/notebooks/school_similarity.ipynb)
 3. [Question 3](/notebooks/Combined_Sentiment_Analysis.ipynb)
+
 Note that all notebooks were originally built and ran in Google Colab, so 
 it uses Google's Colab environment and is built upon mounting a particular
 Google Drive for file access.
